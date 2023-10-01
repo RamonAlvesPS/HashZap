@@ -81,9 +81,12 @@ Sinta-se a vontade para **registar uma nova edição** com o respectivo titulo e
 
 ## 📕 Licença
 
-<p align="center">
-  <a href="https://github.com/RamonAlvesPS/HashZap/blob/master/LICENSE">📕 License</a></b>
-  Este projeto está sob a [MIT license](https://github.com/RamonAlvesPS/HashZap/blob/master/LICENSE).
-</p>
+<div align="center">
+  
+  Este projeto está sob a [MIT license]([https://github.com/RamonAlvesPS/HashZap/blob/main/LICENSE).
+  
+</div>
 
+<div align='center'>
 🚀 Feito com <strong style="color:purple">❤</strong>  por [Ramon Alves](https://github.com/RamonAlvesPS).
+</div>
