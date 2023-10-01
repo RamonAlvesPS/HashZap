@@ -1,10 +1,14 @@
-# HashZap
+<a id="hashzap">
+  <p align="center">
+    <img width='38%' src="./assets/imgs/Logo HashZap.png"/>
+  </p>
+</a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" alt="Version 1.0.0"/>
 </p>
 
- -> Este é um projeto simples chamado "HashZap". Foi desenvolvido como parte dos estudos durante a "Jornada Python" da [4ª aula](https://youtu.be/0bTo_ouNbmQ) (Python Dev) realizada pela [HashTag Treinamento](https://lp.hashtagtreinamentos.com/). O projeto tem como objetivo criar um chat interativo usando a biblioteca flet no Python.
+  Este é um projeto simples chamado "HashZap". Foi desenvolvido como parte dos estudos durante a "Jornada Python" da [4ª aula](https://youtu.be/0bTo_ouNbmQ) (Python Dev) realizada pela [HashTag Treinamento](https://lp.hashtagtreinamentos.com/). O projeto tem como objetivo criar um chat interativo usando a biblioteca flet no Python.
 
  **Data de criação:** 30/09/2023
 
