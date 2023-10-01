@@ -88,5 +88,7 @@ Sinta-se a vontade para **registar uma nova edição** com o respectivo titulo e
 </div>
 
 <div align='center'>
+  
 🚀 Feito com <strong style="color:purple">❤</strong>  por [Ramon Alves](https://github.com/RamonAlvesPS).
+
 </div>
