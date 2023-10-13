@@ -37,7 +37,7 @@
   $ git clone https://github.com/RamonAlvesPS/HashZap.git
 
   # Navegue até o diretório onde o programa está localizado
-  $ cd consulta_cep
+  $ cd HashZap
 
   # Instale as dependências
   $ pip install -r requirements.txt
